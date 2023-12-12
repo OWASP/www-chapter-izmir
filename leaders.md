@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Huseyin Gulsin](mailto:huseyin.gulsin@owasp.org)
+* [Tugba Karasu](mailto:tugba.karasu@owasp.org)
