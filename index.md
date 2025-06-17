@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Izmir
 tags: owasp izmir, siber güvenlik izmir, cyber security izmir
 region: Europe
-country: turkiye
+country: Turkiye
 meetup-group:
 
 ---
