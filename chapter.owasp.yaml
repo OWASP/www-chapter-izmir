@@ -1,0 +1,23 @@
+leaders:
+  - name: Hüseyin Gülşin
+    email: huseyin.gulsin@owasp.org
+    github: huseyingulsin
+  - name: Tuğba Karasu
+    email: tugba.karasu@owasp.org
+location:
+  country: Türkiye
+  country_code: TR
+  region: Izmir
+  city: Izmir
+  latitude: 38.23166
+  longitude: 27.02997
+name: OWASP Izmir
+repositories:
+  - name: www-chapter-izmir
+    url: https://github.com/OWASP/www-chapter-izmir
+    description: OWASP Foundation Web Repository
+tags:
+  - owasp izmir
+  - siber güvenlik izmir
+  - cyber security izmir
+website: https://owasp.org/www-chapter-izmir
